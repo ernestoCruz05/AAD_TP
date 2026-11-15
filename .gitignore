@@ -1,0 +1,8 @@
+.dev/
+
+A1_SHA1/sha1_cpu_tests
+A1_SHA1/sha1_cuda_test
+A1_SHA1/sha1_cuda_kernel.cubin
+A1_SHA1/parse_png
+A1_SHA1/mine_cpu
+a.out
