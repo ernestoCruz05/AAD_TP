@@ -1,0 +1,6 @@
+-std=gnu23
+-march=native
+-Wall
+-Wextra
+-Wshadow
+-I.
